@@ -9,14 +9,16 @@ By this point in the quarter, you should know the following:
 - How to navigate through your directory via relative paths
 - The difference between relative and absolute paths
 - How to use Github
+
 - How to use the following elements:
-- - <p>
-- - <ul>
-- - <ol>
-- - <li>
-- - <h1> - <h6> 
-- - <img> 
-- - <a> 
+
+- \<p>
+- \<ul>
+- \<ol>
+- \<li>
+- \<h1> - \<h6> 
+- \<img> 
+- \<a> 
 
 
 
